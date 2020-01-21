@@ -5,15 +5,9 @@ date:       2020-01-20 23:08:31 -0500
 permalink:  why_coding_why_in_my_late_thirties
 ---
 
-```
-
-```[]https://www.instagram.com/p/Bu1_d19hwgg/?igshid=1vu7vhzrcc78q
-
-Hello, this is me. My name is Norberto Santiago and that picture is from me, doing a podcast with some of my friends called Movie Slam. We did like 11 or 12 episodes and is about movies rated with wrestling moves. If the movie was boring, it would be rated as a sleephold, if it was great, it was a superkick. You got the idea. Other than cohosting a podcast and hanguing out, I write a movie blog called The Small Reviews and I used to host movie night parties at one of my favorite places in town. Looks like a happy person's life, some great talented friends, writing about movies and hosting parties and last but not least, starting a relationship with a sweet, beautiful woman. 
+Hello, this is me. My name is Norberto Santiago, I used to do a podcast with some of my friends called Movie Slam. We did like 11 or 12 episodes and is about movies rated with wrestling moves. If the movie was boring, it would be rated as a sleephold, if it was great, it was a superkick. You got the idea. Other than cohosting a podcast and hanguing out, I write a movie blog called The Small Reviews and I used to host movie night parties at one of my favorite places in town. Looks like a happy person's life, some great talented friends, writing about movies and hosting parties and last but not least, starting a relationship with a sweet, beautiful woman. 
 
 Then, what happened? Why did I wanted to change my life? Why you left everything in Puerto Rico and moved to below zero weather in Alaska? The answer is simple, I wasn't happy. Work made me miserable, I was downgraded from a  talented Business Inteligence analyst with a bright future to a repetitive task that led me nowhere in my career. I came from having daily and weekly troubleshooting adventures to be sentenced to a boring task. The story is way too long and I won't reveal where I was working. But it resumes to people just saying; "You can't do it.", "You don't have the education."  or "You're already good at this, keep working on that." 
-
-
 
 Since I was a kid in the 80's, I was fascinated with the world of computers and technologies. Obssessed with video games and sci-fi movies, I knew since I was that young I wanted my life to be revolved around technology and it was to some extent if we consider playing Nintendo and watching the movie Tron millions of times to be revolving around technology. 
 
