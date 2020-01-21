@@ -1,11 +1,11 @@
 # Site settings
 author: Norberto Santiago
-title: My Unexpected Journey: From Giving Up to Getting Up With Codes
+title: The Over Due Dream 
 header-img: img/home-bg.png
 email: norbertosantiago82@gmail.com
 copyright_name: Norberto Santiago
 description: > # this means to ignore newlines until "baseurl:"
-  Doing what many told me I can't do. 
+  From Giving Up to Getting Up With Codes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  N-Santiago
