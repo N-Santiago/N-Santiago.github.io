@@ -5,8 +5,9 @@ date:       2020-01-20 23:08:31 -0500
 permalink:  why_coding_why_in_my_late_thirties
 ---
 
-![](http://)
-https://www.instagram.com/p/Bu1_d19hwgg/?igshid=1vu7vhzrcc78q(http://)
+```
+
+```[]https://www.instagram.com/p/Bu1_d19hwgg/?igshid=1vu7vhzrcc78q
 
 Hello, this is me. My name is Norberto Santiago and that picture is from me, doing a podcast with some of my friends called Movie Slam. We did like 11 or 12 episodes and is about movies rated with wrestling moves. If the movie was boring, it would be rated as a sleephold, if it was great, it was a superkick. You got the idea. Other than cohosting a podcast and hanguing out, I write a movie blog called The Small Reviews and I used to host movie night parties at one of my favorite places in town. Looks like a happy person's life, some great talented friends, writing about movies and hosting parties and last but not least, starting a relationship with a sweet, beautiful woman. 
 
