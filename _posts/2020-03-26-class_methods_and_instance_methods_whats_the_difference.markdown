@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Class Methods and Instance Methods: What's the Difference? "
-date:       2020-03-26 21:05:22 +0000
+date:       2020-03-26 17:05:23 -0400
 permalink:  class_methods_and_instance_methods_whats_the_difference
 ---
 
@@ -90,11 +90,8 @@ Another important detail about class methods. We wanna call a class variable wit
 
 ```
 Class Person
-
 attr_accessor :name
-
 @@all = []
-
 def initialize(name)
 @name = name
 @@all << self
