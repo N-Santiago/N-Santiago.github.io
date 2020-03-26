@@ -86,7 +86,6 @@ end
 end 
 ```
 
-
 Another important detail about class methods. We wanna call a class variable with ```@@```. One thing we'll do a lot when programming ruby are the following.
 
 ```
