@@ -63,19 +63,20 @@ Let's check what's a Class Method. A class method provides functionality to a cl
 
 ```
   def self.from_the_class
-    "Hello, from a class method"
+   "Hello, from a class method"
   end
 	```
 	
-	While an instance method provides functionality to one instance of a class. For example:
+While an instance method provides functionality to one instance of a class. For example:
 	
-	```
-	def from_an_instance
-    "Hello, from an instance method"
+	
+```
+def from_an_instance
+   "Hello, from an instance method"
   end
-	```
+```
 	
-See the difference? ```self``` is signifying that is signifying that it is a Class Method. We can also write Class Method like this:
+See the difference? self is signifying that is signifying that it is a Class Method. We can also write Class Method like this:
 
 ```
 class SayHello  
