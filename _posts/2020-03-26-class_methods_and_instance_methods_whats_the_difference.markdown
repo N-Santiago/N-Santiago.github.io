@@ -90,11 +90,13 @@ Another important detail about class methods. We wanna call a class variable wit
 
 ```
 Class Person
-attr_accessor :name
-@@all = []
-def initialize(name)
-@name = name
-@@all << self
+ attr_accessor :name
+ @@all = []
+ def initialize(name)
+  @name = name
+  @@all << self
+ end
+end
 ```
 
 In this program, we're starting by creating the Class Person, followed by setting instance variable name as setter and getter (basically, read and write access), inititalizing that name instance variable and also initializing the ```@@all``` class instance which will store every instance of the Song class. 
